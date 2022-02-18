@@ -6,7 +6,7 @@ import junit.framework.TestSuite;
 
 /**
  * Unit test for HelloWorld.
- * Updated by Rickysab
+ *
  */
 public class HelloWorldTest 
     extends TestCase
